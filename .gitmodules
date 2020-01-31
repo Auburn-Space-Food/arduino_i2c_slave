@@ -1,0 +1,3 @@
+[submodule "src/am2315_arduino"]
+	path = src/am2315_arduino
+	url = https://github.com/Auburn-Space-Food/am2315_arduino.git
